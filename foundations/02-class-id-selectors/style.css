@@ -1,0 +1,16 @@
+.oddnumber {
+  background-color: hsl(330, 67%, 70%);
+  font-family: verdana, DejaVuSans, sans-serif;
+}
+.classnum3 {
+  font-size: 24px;
+}
+#num2 {
+  color: rgb(32, 32, 181);
+  font-size: 36px;
+}
+#num4 {
+  background-color: rgb(160, 236, 160);
+  font-size: 24px;
+  font-weight: bold;
+}
